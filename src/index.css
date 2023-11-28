@@ -6,7 +6,7 @@
 
 h1{
     font-size: 45px;
-    color: rgb(229,229,252);
+    color: rgb(229,229,250);
     font-weight: 600;
     text-shadow: 2px 2px 2px black;
 }
@@ -15,11 +15,11 @@ header{
     text-align: center;
     padding: 4px 10%;
     margin-bottom: 50px;
-    background-color: rgb(102, 94, 74);
+    background-color: rgb(229,229,250);
 }
 
 .app{
-    background-color:rgb(229,229,252);
+    background-color:rgb(229,229,250);
     background-repeat: no-repeat;
     height: 100vh;
 }
@@ -28,7 +28,7 @@ header{
     width: 250px;
     padding: 10px 25px;
     margin: 10px 1%;
-    background-color: rgb(228,228,228);
+    background-color: rgb(161,159,242);
     border-radius: 5px;
 }
 
@@ -112,7 +112,7 @@ header{
 
 .taskCardDeleteButton{
     border: none;
-    background-color: rgb(228,228,228);
+    background-color: rgb(255, 255, 255);
     cursor: pointer;
     font-size: 16px;
     color: rgb(158, 46, 46);
