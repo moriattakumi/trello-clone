@@ -112,8 +112,8 @@ header{
 
 .taskCardDeleteButton{
     border: none;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(87, 87, 223);
     cursor: pointer;
     font-size: 16px;
-    color: rgb(158, 46, 46);
+    color: rgb(0, 0, 0);
 }
