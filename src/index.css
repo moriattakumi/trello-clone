@@ -6,7 +6,7 @@
 
 h1{
     font-size: 45px;
-    color: rgb(229,229,250);
+    color: rgb(117,115,255);
     font-weight: 600;
     text-shadow: 2px 2px 2px black;
 }
@@ -94,7 +94,7 @@ header{
     padding: 10px 18px;
     border-radius: 9999px;
     font-size: 30px;
-    background-color: rgb(87, 87, 223);
+    background-color: rgb(117,115,255);
     box-shadow: 3px 3px 8px 1px black;
     cursor: pointer;
     transition: all 0.3s;
@@ -112,7 +112,7 @@ header{
 
 .taskCardDeleteButton{
     border: none;
-    background-color: rgb(87, 87, 223);
+    background-color: rgb(161,159,242);
     cursor: pointer;
     font-size: 16px;
     color: rgb(0, 0, 0);
