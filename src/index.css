@@ -6,7 +6,7 @@
 
 h1{
     font-size: 45px;
-    color: aliceblue;
+    color: rgb(229,229,252);
     font-weight: 600;
     text-shadow: 2px 2px 2px black;
 }
@@ -19,7 +19,7 @@ header{
 }
 
 .app{
-    background: url(../src/images/sky.jpg);
+    background-color:rgb(229,229,252);
     background-repeat: no-repeat;
     height: 100vh;
 }
@@ -94,7 +94,7 @@ header{
     padding: 10px 18px;
     border-radius: 9999px;
     font-size: 30px;
-    background-color: rgb(221, 194, 162);
+    background-color: rgb(87, 87, 223);
     box-shadow: 3px 3px 8px 1px black;
     cursor: pointer;
     transition: all 0.3s;
